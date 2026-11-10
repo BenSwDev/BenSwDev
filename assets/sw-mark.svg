@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 36" role="img" aria-label="SW personal monogram">
+  <defs>
+    <linearGradient id="sw-gradient" x1="4" y1="4" x2="59" y2="31" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="48%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#e879f9"/>
+    </linearGradient>
+  </defs>
+  <path fill="none" d="M27 6C20 2 8 3 5 10C2 17 13 17 21 16C31 15 32 24 25 29C19 34 8 32 4 27" stroke="url(#sw-gradient)" stroke-width="3.7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path fill="none" d="M29 9L34 29L40 18L46 29L55 8" stroke="url(#sw-gradient)" stroke-width="3.7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path fill="none" d="M50 7L60 3" stroke="#f0abfc" stroke-width="2.2" stroke-linecap="round"/>
+</svg>
