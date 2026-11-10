@@ -8,7 +8,7 @@ I design and build software systems that combine strong backend architecture, mo
 
 My work spans backend services, full-stack platforms, system modernization, API integrations, and AI-powered applications.
 
-[**Personal website**](https://benjaminsw.com) · [**LinkedIn**](https://www.linkedin.com/in/ben-swissa/)
+[**Personal website**](https://benjaminsw.com) · [**LinkedIn**](https://www.linkedin.com/in/benjaminsw/)
 
 ---
 
